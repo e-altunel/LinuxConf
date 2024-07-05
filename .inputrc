@@ -1,0 +1,2 @@
+TAB: menu-complete
+"\b":backward-kill-word
