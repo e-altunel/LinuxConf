@@ -10,3 +10,5 @@
 
 !.vim/
 !.vim/**
+.config/github-copilot/apps.json
+.config/github-copilot/versions.json
