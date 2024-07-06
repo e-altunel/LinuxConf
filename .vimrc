@@ -8,3 +8,7 @@ set cursorline
 
 " Set the cursor shape to a underline
 set guicursor=
+
+:set tabstop=2
+:set shiftwidth=2
+:set expandtab
