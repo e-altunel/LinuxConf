@@ -5,3 +5,6 @@ highlight CursorLine cterm=NONE ctermbg=NONE guibg=NONE
 
 set nu rnu
 set cursorline
+
+" Set the cursor shape to a underline
+set guicursor=
